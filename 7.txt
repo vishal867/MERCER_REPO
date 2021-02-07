@@ -1,0 +1,6 @@
+when we are cloning the repo then no need of git init command. 
+because we are cloning and all the files will come automatically after the cloning.
+
+
+
+
